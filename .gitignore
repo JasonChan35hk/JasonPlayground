@@ -1,0 +1,10 @@
+*.vcxproj.user
+*.VC.VC.opendb
+*.VC.db
+*.iobj
+*.ipdb
+*.pdb
+
+knights_tour/Debug
+knights_tour/Release
+knights_tour/.vs

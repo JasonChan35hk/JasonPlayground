@@ -8,3 +8,9 @@
 knights_tour/Debug
 knights_tour/Release
 knights_tour/.vs
+
+GameOfLife/.vs
+GameOfLife/Library
+GameOfLife/GameOfLife.sln
+GameOfLife/GameOfLife.csproj
+GameOfLife/GameOfLife.Editor.csproj
